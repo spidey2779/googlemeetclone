@@ -10,6 +10,9 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        buttonPrimary: "#d90429",
+        prime: "#212529",
+        secondary: "#343a40",
       },
     },
   },
